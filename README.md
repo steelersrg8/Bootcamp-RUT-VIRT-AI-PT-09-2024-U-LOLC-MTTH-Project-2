@@ -16,10 +16,10 @@ John
 
 Will
 
-1. Do the mothers education level (Medu and Fedu) effect the students grades (G3)?
+1. Do the mothers education level (Medu) effect the students grades (G3)?
 
-2. Do the fathers education level (Medu and Fedu) effect the students grades (G3)?
+2. Do the fathers education level (Fedu) effect the students grades (G3)?
 
-3. Do the mothers jobs(Mjob and Fjob) effect the students grades (G3)?
+3. Do the mothers jobs(Mjob) effect the students grades (G3)?
 
-4. Do the fathers jobs(Mjob and Fjob) effect the students grades (G3)?
+4. Do the fathers jobs(Fjob) effect the students grades (G3)?
