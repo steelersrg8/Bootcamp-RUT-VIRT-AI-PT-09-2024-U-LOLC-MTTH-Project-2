@@ -81,16 +81,12 @@ Will
 | romantic_numeric   | 0.0461  | 0.107   | 0.431  | 0.667   | -0.164 | 0.256  |
 
 ## Diagnostics
-| Metric               | Value          |
-|----------------------|----------------|
-| Omnibus              | 437.030       |
-| Prob(Omnibus)        | 0.000         |
-| Durbin-Watson        | 1.836         |
-| Jarque-Bera (JB)     | 8829.738      |
-| Prob(JB)             | 0.000         |
-| Skew                 | -2.682        |
-| Kurtosis             | 20.256        |
-| Cond. No.            | 480.000       |
+| Label          | Number  | Label             | Number   |
+|----------------|---------|-------------------|----------|
+| Omnibus:       | 437.030 | Durbin-Watson:    | 1.836    |
+| Prob(Omnibus): | 0.000   | Jarque-Bera (JB): | 8829.738 |
+| Skew:          | -2.682  | Prob(JB):         | 0.00     |
+| Kurtosis:      | 20.256  | Cond. No.         | 480      |
 
 ## Notes
 1. Standard Errors assume that the covariance matrix of the errors is correctly specified.
