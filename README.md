@@ -9,7 +9,7 @@ A brief description of what this project does and who it's for.
 1. [About the Project](#about-the-project)  
 2. [Features](#features)  
 3. [Installation](#installation)  
-4. [Findings](#Findings)  
+4. [Results](#Results)  
 5. [Technologies](#technologies)  
 6. [Contributors](#contributors)  
 7. [License](#license)  
@@ -52,7 +52,7 @@ Explain how to use the project with examples or command-line instructions. Inclu
 # Example usage command
 python app.py --input file.txt --output results.txt
 
-## Findings
+## Results
 
 #Title for findings
 
