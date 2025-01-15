@@ -24,9 +24,15 @@ Provide a detailed description of the project, its purpose, and what problems it
 ---
 
 ## Research Questions and Findings
-- List the key features of your project.
-- Highlight what makes it unique or useful.
 
+1. How does a student pursuing extra curricular activities (activities) effect the students final grades (G3)?(John)
+2. What is the relationship between number of failures (failures) and grades(G3)?(John)
+3. Does going out with friends(goout) correlate to good grades(G3)?(John)
+4. Does age(age) correlate to grades(G3)?(John)
+5. Do the mothers education level (Medu) effect the students grades (G3)?(Will)
+6. Do the fathers education level (Fedu) effect the students grades (G3)?(Will)
+7. Do the mothers jobs(Mjob) effect the students grades (G3)?(Will)
+8. Do the fathers jobs(Fjob) effect the students grades (G3)?(Will)
 ---
 
 ## Installation
@@ -62,25 +68,7 @@ List the technologies, frameworks, or libraries used in this project (e.g., Reac
 
 ## Contributors
 
-# John
 
-1. How does a student pursuing extra curricular activities (activities) effect the students final grades (G3)? 
-
-2. What is the relationship between number of failures (failures) and grades(G3)?
-
-3. Does going out with friends(goout) correlate to good grades(G3)?
-
-4. Does age(age) correlate to grades(G3)?
-
-# Will
-
-1. Do the mothers education level (Medu) effect the students grades (G3)?
-
-2. Do the fathers education level (Fedu) effect the students grades (G3)?
-
-3. Do the mothers jobs(Mjob) effect the students grades (G3)?
-
-4. Do the fathers jobs(Fjob) effect the students grades (G3)?
 
 ## License
 
