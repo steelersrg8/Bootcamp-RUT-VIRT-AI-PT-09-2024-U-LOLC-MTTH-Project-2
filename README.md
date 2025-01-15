@@ -1,4 +1,4 @@
-# Bootcamp-RUT-VIRT-AI-PT-09-2024-U-LOLC-MTTH-Project-2
+## Project Overview
 
 A brief description of what this project does and who it's for.
 
