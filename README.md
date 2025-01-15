@@ -81,7 +81,7 @@ Will
 | romantic_numeric   | 0.0461  | 0.107   | 0.431  | 0.667   | -0.164 | 0.256  |
 
 ## Diagnostics
-| Label          | Value   | Label             | Value    |
+| Metric         | Value   | Metric            | Value    |
 |----------------|---------|-------------------|----------|
 | Omnibus:       | 437.030 | Durbin-Watson:    | 1.836    |
 | Prob(Omnibus): | 0.000   | Jarque-Bera (JB): | 8829.738 |
