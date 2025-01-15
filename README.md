@@ -46,23 +46,25 @@ npm install  # or pip install -r requirements.txt
 
 # Start the application
 npm start  # or python app.py
-Usage
+# Usage
 Explain how to use the project with examples or command-line instructions. Include any additional information about configurations or setup.
 
 # Example usage command
 python app.py --input file.txt --output results.txt
 
-##Findings
+## Findings
 
 #Title for findings
+
 findings
-##Technologies
+
+## Technologies
 List the technologies, frameworks, or libraries used in this project (e.g., React, Django, Flask, TensorFlow).
 
 
-##Contributors
+## Contributors
 
-#John
+# John
 
 1. How does a student pursuing extra curricular activities (activities) effect the students final grades (G3)? 
 
@@ -72,7 +74,7 @@ List the technologies, frameworks, or libraries used in this project (e.g., Reac
 
 4. Does age(age) correlate to grades(G3)?
 
-#Will
+# Will
 
 1. Do the mothers education level (Medu) effect the students grades (G3)?
 
@@ -82,14 +84,15 @@ List the technologies, frameworks, or libraries used in this project (e.g., Reac
 
 4. Do the fathers jobs(Fjob) effect the students grades (G3)?
 
-License
+## License
+
 Distributed under the MIT License. See LICENSE for more information.
 
-Contact
-Your Name - Your Email
-Project Link: GitHub Repository
+## Contact
+If you would like to contact us you may use the Issues tab to get in touch. 
 
-Acknowledgments
+## Acknowledgments
+
 Mention any resources, tutorials, or contributors that helped you build this project.
 Provide links to relevant documentation or tools.
 
