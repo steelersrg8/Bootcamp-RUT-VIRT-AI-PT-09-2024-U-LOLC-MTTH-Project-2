@@ -25,10 +25,10 @@ Provide a detailed description of the project, its purpose, and what problems it
 2. What is the relationship between number of failures (failures) and grades(G3)?(John)
 3. Does going out with friends(goout) correlate to good grades(G3)?(John)
 4. Does age(age) correlate to grades(G3)?(John)
-5. Do the mothers education level (Medu) affect the students grades (G3)? (Will)
-6. Do the fathers education level (Fedu) affect the students grades (G3)? (Will)
-7. Do the mothers jobs(Mjob) affect the students grades (G3)? (Will)
-8. Do the fathers jobs(Fjob) affect the students grades (G3)? (Will)
+5. Does the mothers education level (Medu) affect the students grades (G3)? (Will)
+6. Does the fathers education level (Fedu) affect the students grades (G3)? (Will)
+7. Does the mothers jobs(Mjob) affect the students grades (G3)? (Will)
+8. Does the fathers jobs(Fjob) affect the students grades (G3)? (Will)
 ---
 ## Technologies Used
 
