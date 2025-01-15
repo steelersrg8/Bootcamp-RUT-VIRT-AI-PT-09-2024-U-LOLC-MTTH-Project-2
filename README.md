@@ -11,9 +11,10 @@ A brief description of what this project does and who it's for.
 4. [Installation and Usage](#Installation-and-Usage)  
 5. [Analysis Results](#Analysis-Results)  
 6. [Future Analysis Considerations](#Future-Analysis-Considerations)  
-7. [License](#license)  
-8. [Contact](#contact)  
-9. [Acknowledgments](#acknowledgments)  
+7. [Dataset License](#Dataset-License)  
+8. [Team Members and Roles](#Team-Members-and-Roles)
+9. [Contributing](#Contributing)  
+10. [Acknowledgments](#acknowledgments)  
 
 ---
 
@@ -129,15 +130,15 @@ python app.py --input file.txt --output results.txt
 List the technologies, frameworks, or libraries used in this project (e.g., React, Django, Flask, TensorFlow).
 
 
-## Contributors
+## Dataset License  
 
 
 
-## License
+## Team Members and Roles
 
 Distributed under the MIT License. See LICENSE for more information.
 
-## Contact
+## Contributing
 If you would like to contact us you may use the Issues tab to get in touch. 
 
 ## Acknowledgments
