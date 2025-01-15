@@ -6,10 +6,10 @@ A brief description of what this project does and who it's for.
 ## Table of Contents
 
 1. [Project Overview](#Project-Overview)  
-2. [Research Questions and Findings](#Research-Questions-and-Findings)  
-3. [Installation](#installation)  
-4. [Results](#Results)  
-5. [Technologies](#technologies)  
+2. [Research Questions and Findings](#Research-Questions-and-Findings)
+3. [Technologies Used](#Technologies-Used)  
+4. [Installation](#installation)  
+5. [Results](#Results)  
 6. [Contributors](#contributors)  
 7. [License](#license)  
 8. [Contact](#contact)  
@@ -34,6 +34,8 @@ Provide a detailed description of the project, its purpose, and what problems it
 7. Do the mothers jobs(Mjob) effect the students grades (G3)? (Will)
 8. Do the fathers jobs(Fjob) effect the students grades (G3)? (Will)
 ---
+## Technologies Used
+
 
 ## Installation
 
