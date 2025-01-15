@@ -9,7 +9,7 @@ A brief description of what this project does and who it's for.
 2. [Research Questions and Findings](#Research-Questions-and-Findings)
 3. [Technologies Used](#Technologies-Used)  
 4. [Installation and Usage](#Installation-and-Usage)  
-5. [Results](#Results)  
+5. [Analysis Results](#Analysis-Results)  
 6. [Contributors](#contributors)  
 7. [License](#license)  
 8. [Contact](#contact)  
@@ -58,7 +58,7 @@ Explain how to use the project with examples or command-line instructions. Inclu
 # Example usage command
 python app.py --input file.txt --output results.txt
 
-## Results
+## Analysis Results
 
 #Title for findings
 
