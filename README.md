@@ -8,7 +8,7 @@ A brief description of what this project does and who it's for.
 1. [Project Overview](#Project-Overview)  
 2. [Research Questions and Findings](#Research-Questions-and-Findings)
 3. [Technologies Used](#Technologies-Used)  
-4. [Installation](#installation)  
+4. [Installation and Usage](#Installation-and-Usage)  
 5. [Results](#Results)  
 6. [Contributors](#contributors)  
 7. [License](#license)  
@@ -37,7 +37,7 @@ Provide a detailed description of the project, its purpose, and what problems it
 ## Technologies Used
 
 
-## Installation
+## Installation and Usage
 
 Step-by-step instructions on how to get a development environment running.
 
