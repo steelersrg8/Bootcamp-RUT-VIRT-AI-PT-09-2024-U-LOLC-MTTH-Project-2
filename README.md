@@ -10,7 +10,7 @@ A brief description of what this project does and who it's for.
 3. [Technologies Used](#Technologies-Used)  
 4. [Installation and Usage](#Installation-and-Usage)  
 5. [Analysis Results](#Analysis-Results)  
-6. [Contributors](#contributors)  
+6. [Future Analysis Considerations](#Future-Analysis-Considerations)  
 7. [License](#license)  
 8. [Contact](#contact)  
 9. [Acknowledgments](#acknowledgments)  
@@ -59,37 +59,6 @@ Explain how to use the project with examples or command-line instructions. Inclu
 python app.py --input file.txt --output results.txt
 
 ## Analysis Results
-
-#Title for findings
-
-findings
-
-## Technologies
-List the technologies, frameworks, or libraries used in this project (e.g., React, Django, Flask, TensorFlow).
-
-
-## Contributors
-
-
-
-## License
-
-Distributed under the MIT License. See LICENSE for more information.
-
-## Contact
-If you would like to contact us you may use the Issues tab to get in touch. 
-
-## Acknowledgments
-
-Mention any resources, tutorials, or contributors that helped you build this project.
-Provide links to relevant documentation or tools.
-
-Dataset: https://archive.ics.uci.edu/dataset/320/student+performance
-
-Questions:
-
-
-                           
 # OLS Regression Results
 
 ## Summary
@@ -155,3 +124,31 @@ Questions:
 
 ## Notes
 1. Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+## Future Analysis Considerations
+List the technologies, frameworks, or libraries used in this project (e.g., React, Django, Flask, TensorFlow).
+
+
+## Contributors
+
+
+
+## License
+
+Distributed under the MIT License. See LICENSE for more information.
+
+## Contact
+If you would like to contact us you may use the Issues tab to get in touch. 
+
+## Acknowledgments
+
+Mention any resources, tutorials, or contributors that helped you build this project.
+Provide links to relevant documentation or tools.
+
+Dataset: https://archive.ics.uci.edu/dataset/320/student+performance
+
+Questions:
+
+
+                           
+
