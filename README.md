@@ -1,10 +1,68 @@
 # Bootcamp-RUT-VIRT-AI-PT-09-2024-U-LOLC-MTTH-Project-2
 
-Dataset: https://archive.ics.uci.edu/dataset/320/student+performance
+A brief description of what this project does and who it's for.
 
-Questions:
+---
 
-John
+## Table of Contents
+
+1. [About the Project](#about-the-project)  
+2. [Features](#features)  
+3. [Installation](#installation)  
+4. [Findings](#Findings)  
+5. [Technologies](#technologies)  
+6. [Contributors](#contributors)  
+7. [License](#license)  
+8. [Contact](#contact)  
+9. [Acknowledgments](#acknowledgments)  
+
+---
+
+## About the Project
+
+Provide a detailed description of the project, its purpose, and what problems it solves. Include screenshots or links to relevant resources if applicable.
+
+---
+
+## Features
+
+- List the key features of your project.
+- Highlight what makes it unique or useful.
+
+---
+
+## Installation
+
+Step-by-step instructions on how to get a development environment running.
+
+# Clone the repository
+git clone https://github.com/username/repository-name.git
+
+# Navigate to the project directory
+cd repository-name
+
+# Install dependencies
+npm install  # or pip install -r requirements.txt
+
+# Start the application
+npm start  # or python app.py
+Usage
+Explain how to use the project with examples or command-line instructions. Include any additional information about configurations or setup.
+
+# Example usage command
+python app.py --input file.txt --output results.txt
+
+##Findings
+
+#Title for findings
+findings
+##Technologies
+List the technologies, frameworks, or libraries used in this project (e.g., React, Django, Flask, TensorFlow).
+
+
+##Contributors
+
+#John
 
 1. How does a student pursuing extra curricular activities (activities) effect the students final grades (G3)? 
 
@@ -14,7 +72,7 @@ John
 
 4. Does age(age) correlate to grades(G3)?
 
-Will
+#Will
 
 1. Do the mothers education level (Medu) effect the students grades (G3)?
 
@@ -23,6 +81,22 @@ Will
 3. Do the mothers jobs(Mjob) effect the students grades (G3)?
 
 4. Do the fathers jobs(Fjob) effect the students grades (G3)?
+
+License
+Distributed under the MIT License. See LICENSE for more information.
+
+Contact
+Your Name - Your Email
+Project Link: GitHub Repository
+
+Acknowledgments
+Mention any resources, tutorials, or contributors that helped you build this project.
+Provide links to relevant documentation or tools.
+
+Dataset: https://archive.ics.uci.edu/dataset/320/student+performance
+
+Questions:
+
 
                            
 # OLS Regression Results
@@ -44,7 +118,7 @@ Will
 | Covariance Type      | Nonrobust     |
 
 ## Coefficients
-|                    | coef    | std err | t      | P>\|t\| | [0.025 | 0.975] |
+| Metric             | coef    | std err | t      | P>\|t\| | [0.025 | 0.975] |
 |--------------------|---------|---------|--------|---------|--------|--------|
 | const              | -0.0769 | 0.917   | -0.084 | 0.933   | -1.877 | 1.723  |
 | age                | 0.0351  | 0.047   | 0.751  | 0.453   | -0.057 | 0.127  |
