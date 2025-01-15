@@ -1,4 +1,3 @@
-## Project Overview
 
 A brief description of what this project does and who it's for.
 
@@ -6,7 +5,7 @@ A brief description of what this project does and who it's for.
 
 ## Table of Contents
 
-1. [About the Project](#about-the-project)  
+1. [Project Overview](#Project-Overview)  
 2. [Features](#features)  
 3. [Installation](#installation)  
 4. [Results](#Results)  
@@ -18,14 +17,13 @@ A brief description of what this project does and who it's for.
 
 ---
 
-## About the Project
+## Project Overview
 
 Provide a detailed description of the project, its purpose, and what problems it solves. Include screenshots or links to relevant resources if applicable.
 
 ---
 
-## Features
-
+## Research Questions and Findings
 - List the key features of your project.
 - Highlight what makes it unique or useful.
 
