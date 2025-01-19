@@ -54,28 +54,28 @@ Sklearn.pipeline specifically Pipeline for creating a machine learning pipeline
 Sklearn.ensemble specifically RandomForestRegressor for building a random forest regression model
 
 ## Installation and Usage
-
 Step-by-step instructions on how to get a development environment running.
-
-# Clone the repository
+<br>
+Clone the repository
 git clone[ [https://github.com/steelersrg8/Bootcamp-RUT-VIRT-AI-PT-09-2024-U-LOLC-MTTH-Project-2]
-
-# Navigate to the project directory
+<br>
+Navigate to the project directory
 cd Bootcamp-RUT-VIRT-AI-PT-09-2024-U-LOLC-MTTH-Project-2]
-
-# Install Dependencies
+<br>
+Install Dependencies
 Ensure you have the necessary packages installed. Since there's no requirements.txt or package.json provided, manually install the required packages. For example, if the project uses Python and requires pandas and matplotlib, install them using:
-
-
+<br>
 pip install pandas matplotlib
+<br>
 Adjust the package names based on the project's specific requirements.
-
-# Run the Analysis
+<br>
+Run the Analysis
+<br>
 Start Jupyter Notebook:
+<br>
 jupyter notebook
+<br>
 Then, open the relevant .ipynb file to view and execute the analysis.
-
-
 ## Analysis Results
 # OLS Regression Results
 
