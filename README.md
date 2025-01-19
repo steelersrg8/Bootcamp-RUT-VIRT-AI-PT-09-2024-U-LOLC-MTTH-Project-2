@@ -38,10 +38,10 @@ Provide a detailed description of the project, its purpose, and what problems it
 Step-by-step instructions on how to get a development environment running.
 
 # Clone the repository
-git clone https://github.com/username/repository-name.git
+git clone[ [https://github.com/steelersrg8/Bootcamp-RUT-VIRT-AI-PT-09-2024-U-LOLC-MTTH-Project-2]
 
 # Navigate to the project directory
-cd repository-name
+cd Bootcamp-RUT-VIRT-AI-PT-09-2024-U-LOLC-MTTH-Project-2]
 
 # Install dependencies
 npm install  # or pip install -r requirements.txt
