@@ -11,13 +11,11 @@
 9. [Contributing](#Contributing)
 10. [Acknowledgments](#acknowledgments)  
 
----
 
 ## Project Overview
 
 Provide a detailed description of the project, its purpose, and what problems it solves. Include screenshots or links to relevant resources if applicable.
 
----
 
 ## Research Questions and Findings
 
@@ -146,7 +144,6 @@ Then, open the relevant .ipynb file to view and execute the analysis.
 1. Standard Errors assume that the covariance matrix of the errors is correctly specified.
 
 ## Future Analysis Considerations
-List the technologies, frameworks, or libraries used in this project (e.g., React, Django, Flask, TensorFlow).
 
 
 ## Dataset License  
@@ -155,7 +152,7 @@ List the technologies, frameworks, or libraries used in this project (e.g., Reac
 
 ## Team Members and Roles
 
-Distributed under the MIT License. See LICENSE for more information.
+
 
 ## Contributing
 If you would like to contact us you may use the Issues tab to get in touch.
