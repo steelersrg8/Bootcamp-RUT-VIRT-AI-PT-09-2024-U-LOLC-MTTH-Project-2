@@ -82,72 +82,65 @@ jupyter notebook
 ```
 Then, open the relevant .ipynb file to view and execute the analysis.
 ## Analysis Results
-# OLS Regression Results
-
-## Summary
-| Metric               | Value          |
-|----------------------|----------------|
-| Dependent Variable   | G3            |
-| R-squared            | 0.857         |
-| Adjusted R-squared   | 0.850         |
-| F-statistic          | 115.5         |
-| Prob (F-statistic)   | 1.20e-236     |
-| Log-Likelihood       | -1050.0       |
-| AIC                  | 2166.0        |
-| BIC                  | 2314.0        |
-| Observations         | 649           |
-| Df Residuals         | 616           |
-| Df Model             | 32            |
-| Covariance Type      | Nonrobust     |
-
-## Coefficients
-| Metric             | coef    | std err | t      | P>\|t\| | [0.025 | 0.975] |
-|--------------------|---------|---------|--------|---------|--------|--------|
-| const              | -0.0769 | 0.917   | -0.084 | 0.933   | -1.877 | 1.723  |
-| age                | 0.0351  | 0.047   | 0.751  | 0.453   | -0.057 | 0.127  |
-| Medu               | -0.0379 | 0.062   | -0.611 | 0.541   | -0.160 | 0.084  |
-| Fedu               | 0.0145  | 0.061   | 0.238  | 0.812   | -0.105 | 0.134  |
-| traveltime         | 0.1300  | 0.074   | 1.747  | 0.081   | -0.016 | 0.276  |
-| studytime          | 0.0398  | 0.065   | 0.610  | 0.542   | -0.088 | 0.168  |
-| failures           | -0.2414 | 0.098   | -2.454 | 0.014   | -0.435 | -0.048 |
-| famrel             | -0.0362 | 0.054   | -0.667 | 0.505   | -0.143 | 0.070  |
-| freetime           | -0.0343 | 0.052   | -0.655 | 0.513   | -0.137 | 0.068  |
-| goout              | -0.0150 | 0.050   | -0.300 | 0.765   | -0.113 | 0.083  |
-| Dalc               | -0.0718 | 0.071   | -1.011 | 0.312   | -0.211 | 0.068  |
-| Walc               | -0.0182 | 0.055   | -0.332 | 0.740   | -0.126 | 0.089  |
-| health             | -0.0446 | 0.036   | -1.252 | 0.211   | -0.115 | 0.025  |
-| absences           | 0.0155  | 0.012   | 1.337  | 0.182   | -0.007 | 0.038  |
-| G1                 | 0.1257  | 0.038   | 3.348  | 0.001   | 0.052  | 0.199  |
-| G2                 | 0.8735  | 0.035   | 25.032 | 0.000   | 0.805  | 0.942  |
-| school_numeric     | 0.2217  | 0.125   | 1.772  | 0.077   | -0.024 | 0.467  |
-| gender_numeric     | 0.1181  | 0.118   | 1.004  | 0.316   | -0.113 | 0.349  |
-| address_numeric    | -0.1534 | 0.122   | -1.261 | 0.208   | -0.392 | 0.086  |
-| famsize_numeric    | 0.0411  | 0.115   | 0.358  | 0.720   | -0.184 | 0.266  |
-| Pstatus_numeric    | -0.1181 | 0.160   | -0.739 | 0.460   | -0.432 | 0.196  |
-| Mjob_numeric       | -0.0400 | 0.032   | -1.264 | 0.207   | -0.102 | 0.022  |
-| Fjob_numeric       | 0.0001  | 0.035   | 0.004  | 0.997   | -0.068 | 0.068  |
-| reason_numeric     | -0.0482 | 0.043   | -1.124 | 0.262   | -0.132 | 0.036  |
-| guardian_numeric   | 0.0816  | 0.088   | 0.931  | 0.352   | -0.091 | 0.254  |
-| schoolsup_numeric  | 0.2075  | 0.172   | 1.208  | 0.227   | -0.130 | 0.545  |
-| famsup_numeric     | -0.1300 | 0.106   | -1.222 | 0.222   | -0.339 | 0.079  |
-| paid_numeric       | 0.1613  | 0.214   | 0.753  | 0.452   | -0.259 | 0.582  |
-| activities_numeric | -0.0200 | 0.104   | -0.193 | 0.847   | -0.224 | 0.184  |
-| nursery_numeric    | 0.0892  | 0.127   | 0.702  | 0.483   | -0.160 | 0.339  |
-| higher_numeric     | -0.2182 | 0.182   | -1.198 | 0.232   | -0.576 | 0.140  |
-| internet_numeric   | -0.0976 | 0.127   | -0.768 | 0.443   | -0.347 | 0.152  |
-| romantic_numeric   | 0.0461  | 0.107   | 0.431  | 0.667   | -0.164 | 0.256  |
-
-## Diagnostics
-| Metric         | Value   | Metric            | Value    |
-|----------------|---------|-------------------|----------|
-| Omnibus:       | 437.030 | Durbin-Watson:    | 1.836    |
-| Prob(Omnibus): | 0.000   | Jarque-Bera (JB): | 8829.738 |
-| Skew:          | -2.682  | Prob(JB):         | 0.00     |
-| Kurtosis:      | 20.256  | Cond. No.         | 480      |
-
-## Notes
-1. Standard Errors assume that the covariance matrix of the errors is correctly specified.
-
+| Feature Importances: |                        |          |
+|----------------------|------------------------|----------|
+| Feature              | Importance             |          |
+| 5                    | num__failures          | 0.206499 |
+| 12                   | num__absences          | 0.069192 |
+| 2                    | num__Fedu              | 0.048847 |
+| 9                    | num__Dalc              | 0.040835 |
+| 10                   | num__Walc              | 0.038697 |
+| 7                    | num__freetime          | 0.034355 |
+| 0                    | num__age               | 0.033105 |
+| 8                    | num__goout             | 0.032456 |
+| 11                   | num__health            | 0.032153 |
+| 1                    | num__Medu              | 0.030054 |
+| 4                    | num__studytime         | 0.028983 |
+| 13                   | cat__school_GP         | 0.027032 |
+| 6                    | num__famrel            | 0.022793 |
+| 14                   | cat__school_MS         | 0.022579 |
+| 3                    | num__traveltime        | 0.016851 |
+| 35                   | cat__reason_other      | 0.016677 |
+| 51                   | cat__higher_yes        | 0.015948 |
+| 50                   | cat__higher_no         | 0.015499 |
+| 40                   | cat__schoolsup_no      | 0.014307 |
+| 41                   | cat__schoolsup_yes     | 0.013404 |
+| 36                   | cat__reason_reputation | 0.011276 |
+| 33                   | cat__reason_course     | 0.011156 |
+| 25                   | cat__Mjob_other        | 0.010987 |
+| 38                   | cat__guardian_mother   | 0.009559 |
+| 42                   | cat__famsup_no         | 0.009489 |
+| 23                   | cat__Mjob_at_home      | 0.009126 |
+| 34                   | cat__reason_home       | 0.009097 |
+| 31                   | cat__Fjob_services     | 0.008809 |
+| 15                   | cat__sex_F             | 0.008536 |
+| 26                   | cat__Mjob_services     | 0.008427 |
+| 27                   | cat__Mjob_teacher      | 0.008121 |
+| 43                   | cat__famsup_yes        | 0.007826 |
+| 17                   | cat__address_R         | 0.007761 |
+| 49                   | cat__nursery_yes       | 0.007615 |
+| 46                   | cat__activities_no     | 0.007217 |
+| 32                   | cat__Fjob_teacher      | 0.007054 |
+| 18                   | cat__address_U         | 0.007047 |
+| 47                   | cat__activities_yes    | 0.006780 |
+| 30                   | cat__Fjob_other        | 0.006702 |
+| 16                   | cat__sex_M             | 0.006630 |
+| 48                   | cat__nursery_no        | 0.006625 |
+| 55                   | cat__romantic_yes      | 0.006533 |
+| 54                   | cat__romantic_no       | 0.006063 |
+| 52                   | cat__internet_no       | 0.006020 |
+| 20                   | cat__famsize_LE3       | 0.005913 |
+| 37                   | cat__guardian_father   | 0.005859 |
+| 19                   | cat__famsize_GT3       | 0.005687 |
+| 39                   | cat__guardian_other    | 0.005530 |
+| 53                   | cat__internet_yes      | 0.005134 |
+| 24                   | cat__Mjob_health       | 0.003849 |
+| 28                   | cat__Fjob_at_home      | 0.003221 |
+| 22                   | cat__Pstatus_T         | 0.002913 |
+| 21                   | cat__Pstatus_A         | 0.002909 |
+| 44                   | cat__paid_no           | 0.001483 |
+| 45                   | cat__paid_yes          | 0.001436 |
+| 29                   | cat__Fjob_health       | 0.001344 |
 ## Future Analysis Considerations
 
 
