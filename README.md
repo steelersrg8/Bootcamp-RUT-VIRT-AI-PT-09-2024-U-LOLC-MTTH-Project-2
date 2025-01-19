@@ -56,26 +56,29 @@ Sklearn.ensemble specifically RandomForestRegressor for building a random forest
 ## Installation and Usage
 Step-by-step instructions on how to get a development environment running.
 <br>
-**Clone the repository**
+###### **Clone the repository**
 ```
 git clone[ [https://github.com/steelersrg8/Bootcamp-RUT-VIRT-AI-PT-09-2024-U-LOLC-MTTH-Project-2]
 ```
 
-**Navigate to the project directory**
+###### **Navigate to the project directory**
 
 ```
 cd Bootcamp-RUT-VIRT-AI-PT-09-2024-U-LOLC-MTTH-Project-2]
 ```
 
-**Install Dependencies**
+###### **Install Dependencies**
+<br>
 Ensure you have the necessary packages installed. Since there's no requirements.txt or package.json provided, manually install the required packages. For example, if the project uses Python and requires pandas and matplotlib, install them using:
+
 ```
 pip install pandas matplotlib
 ```
 Adjust the package names based on the project's specific requirements.
 <br>
-**Run the Analysis**
+###### **Run the Analysis**
 <br>
+
 Start Jupyter Notebook:
 ```
 jupyter notebook
