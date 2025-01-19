@@ -58,7 +58,7 @@ Step-by-step instructions on how to get a development environment running.
 <br>
 ###### **Clone the repository**
 ```
-git clone[ [https://github.com/steelersrg8/Bootcamp-RUT-VIRT-AI-PT-09-2024-U-LOLC-MTTH-Project-2]
+git clone https://github.com/steelersrg8/Bootcamp-RUT-VIRT-AI-PT-09-2024-U-LOLC-MTTH-Project-2
 ```
 
 ###### **Navigate to the project directory**
