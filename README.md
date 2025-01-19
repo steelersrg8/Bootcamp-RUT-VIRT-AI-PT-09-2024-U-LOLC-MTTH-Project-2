@@ -68,12 +68,11 @@ cd Bootcamp-RUT-VIRT-AI-PT-09-2024-U-LOLC-MTTH-Project-2]
 ```
 
 ###### **Install Dependencies**
-Ensure you have the necessary packages installed. Since there's no requirements.txt or package.json provided, manually install the required packages. For example, if the project uses Python and requires pandas and matplotlib, install them using:
+Manually install the required packages. For example, if the project uses Python and requires pandas and matplotlib, install them using:
 
 ```
 pip install pandas matplotlib
 ```
-Adjust the package names based on the project's specific requirements.
 <br>
 ###### **Run the Analysis**
 
