@@ -31,7 +31,18 @@ Provide a detailed description of the project, its purpose, and what problems it
 8. Does the fathers jobs(Fjob) affect the students grades (G3)? (Will)
 ---
 ## Technologies Used
-
+Python (version 3.9.6)
+Pandas for data manipulation and analysis
+Matplotlib for data visualization
+Git/GitHub for version control
+Pandas for handling tabular data
+Numpy for numerical operations
+Sklearn.model_selection specifically train_test_split for splitting data into training and testing sets
+Matplotlib.pyplot for plotting and visualization
+Sklearn.compose specifically ColumnTransformer for applying transformations to specific columns
+Sklearn.preprocessing specifically StandardScaler and OneHotEncoder for scaling and encoding features
+Sklearn.pipeline specifically Pipeline for creating a machine learning pipeline
+Sklearn.ensemble specifically RandomForestRegressor for building a random forest regression model
 
 ## Installation and Usage
 
@@ -43,7 +54,17 @@ git clone[ [https://github.com/steelersrg8/Bootcamp-RUT-VIRT-AI-PT-09-2024-U-LOL
 # Navigate to the project directory
 cd Bootcamp-RUT-VIRT-AI-PT-09-2024-U-LOLC-MTTH-Project-2]
 
+# Install Dependencies
+Ensure you have the necessary packages installed. Since there's no requirements.txt or package.json provided, manually install the required packages. For example, if the project uses Python and requires pandas and matplotlib, install them using:
 
+
+pip install pandas matplotlib
+Adjust the package names based on the project's specific requirements.
+
+# Run the Analysis
+Start Jupyter Notebook:
+jupyter notebook
+Then, open the relevant .ipynb file to view and execute the analysis.
 
 
 ## Analysis Results
