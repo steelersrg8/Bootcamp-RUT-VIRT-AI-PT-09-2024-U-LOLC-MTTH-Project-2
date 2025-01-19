@@ -76,7 +76,6 @@ pip install pandas matplotlib
 Adjust the package names based on the project's specific requirements.
 <br>
 ###### **Run the Analysis**
-<br>
 
 Start Jupyter Notebook:
 ```
