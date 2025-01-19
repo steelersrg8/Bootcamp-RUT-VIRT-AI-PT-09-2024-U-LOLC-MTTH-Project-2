@@ -166,8 +166,5 @@ Provide links to relevant documentation or tools.
 
 Dataset: https://archive.ics.uci.edu/dataset/320/student+performance
 
-Questions:
-
-
                            
 
