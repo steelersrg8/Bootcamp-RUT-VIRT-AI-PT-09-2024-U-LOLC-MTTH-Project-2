@@ -73,7 +73,7 @@ Manually install the required packages. For example, if the project uses Python 
 ```
 pip install pandas matplotlib
 ```
-<br>
+
 ###### **Run the Analysis**
 
 Start Jupyter Notebook:
