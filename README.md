@@ -152,7 +152,6 @@ Then, open the relevant .ipynb file to view and execute the analysis.
 
 
 ## Dataset License  
-<br>
 This dataset is licensed under a Creative Commons Attribution 4.0 International (CC BY 4.0) license.
 <br>
 This allows for the sharing and adaptation of the datasets for any purpose, provided that the appropriate credit is given.
