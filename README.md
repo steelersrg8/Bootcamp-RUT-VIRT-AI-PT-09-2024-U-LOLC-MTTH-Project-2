@@ -32,16 +32,27 @@ Provide a detailed description of the project, its purpose, and what problems it
 ---
 ## Technologies Used
 Python (version 3.9.6)
+<br>
 Pandas for data manipulation and analysis
+<br>
 Matplotlib for data visualization
+<br>
 Git/GitHub for version control
+<br>
 Pandas for handling tabular data
+<br>
 Numpy for numerical operations
+<br>
 Sklearn.model_selection specifically train_test_split for splitting data into training and testing sets
+<br>
 Matplotlib.pyplot for plotting and visualization
+<br>
 Sklearn.compose specifically ColumnTransformer for applying transformations to specific columns
+<br>
 Sklearn.preprocessing specifically StandardScaler and OneHotEncoder for scaling and encoding features
+<br>
 Sklearn.pipeline specifically Pipeline for creating a machine learning pipeline
+<br>
 Sklearn.ensemble specifically RandomForestRegressor for building a random forest regression model
 
 ## Installation and Usage
