@@ -43,16 +43,8 @@ git clone[ [https://github.com/steelersrg8/Bootcamp-RUT-VIRT-AI-PT-09-2024-U-LOL
 # Navigate to the project directory
 cd Bootcamp-RUT-VIRT-AI-PT-09-2024-U-LOLC-MTTH-Project-2]
 
-# Install dependencies
-npm install  # or pip install -r requirements.txt
 
-# Start the application
-npm start  # or python app.py
-# Usage
-Explain how to use the project with examples or command-line instructions. Include any additional information about configurations or setup.
 
-# Example usage command
-python app.py --input file.txt --output results.txt
 
 ## Analysis Results
 # OLS Regression Results
