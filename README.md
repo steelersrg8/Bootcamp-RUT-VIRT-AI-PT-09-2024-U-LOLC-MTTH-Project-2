@@ -1,7 +1,7 @@
 ## Table of Contents
 
 1. [Project Overview](#Project-Overview)
-2. [Workflow and Key Components](#Workflow_and_Key_Components)
+2. [Workflow and Key Components](#Workflow-and-Key-Components)
 3. [Research Questions and Findings](#Research-Questions-and-Findings)
 4. [Technologies Used](#Technologies-Used)  
 5. [Installation and Usage](#Installation-and-Usage)  
