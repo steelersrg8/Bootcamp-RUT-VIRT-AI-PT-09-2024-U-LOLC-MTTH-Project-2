@@ -5,12 +5,18 @@
 3. [Research Questions and Findings](#Research-Questions-and-Findings)
 4. [Technologies Used](#Technologies-Used)  
 5. [Installation and Usage](#Installation-and-Usage)  
-6. [Analysis Results](#Analysis-Results)  
-7. [Future Analysis Considerations](#Future-Analysis-Considerations)  
-8. [Dataset License](#Dataset-License)  
-9. [Team Members and Roles](#Team-Members-and-Roles)
-10. [Contributing](#Contributing)
-11. [Acknowledgments](#acknowledgments)  
+6. [Analysis Table](#Analysis-Table)
+7. [Analysis Results](#Analysis-Results)
+8. [Data Preprocessing Results](#Data-Preprocessing-Results)
+9. [Feature Selection](#Feature-Selection)
+10. [Performance](#Performance)
+11. [Feature Importance](#Feature-Importance)
+12. [Key Takeaways](#Key-Takeaways)
+13. [Future Analysis Considerations](#Future-Analysis-Considerations)
+14. [Dataset License](#Dataset-License)
+15. [Team Members and Roles](#Team-Members-and-Roles)
+16. [Contributing](#Contributing)
+17. [Acknowledgments](#acknowledgments)  
 
 
 ## Project Overview
@@ -114,7 +120,7 @@ Start Jupyter Notebook:
 jupyter notebook
 ```
 Then, open the relevant .ipynb file to view and execute the analysis.
-## Analysis Results
+## Analysis Table
 | Feature Importances: |                                                 |          |
 |----------------------|-------------------------------------------------|----------|
 | Feature              | Importance                                      | Impact   |
@@ -174,6 +180,73 @@ Then, open the relevant .ipynb file to view and execute the analysis.
 | 44                   | Does Have Extra Paid Classes in Portuguese      | 0.1483%  |
 | 45                   | Does Not Have Extra Paid Classes in Portuguese  | 0.1436%  |
 | 29                   | Father's job in the Health Field                | 0.1344%  |
+
+## Analysis Results
+The project involved analyzing the Student Performance Dataset to build a machine learning model capable of predicting student performance. The following sections summarize the results:
+
+## Data Preprocessing Results
+Handling Missing Values:
+
+No significant missing data was present in the dataset. Basic consistency checks ensured data integrity.
+Categorical Encoding:
+
+Categorical variables like school, sex, address, and others were encoded using one-hot encoding for compatibility with machine learning algorithms.
+Feature Scaling:
+
+Numerical features such as previous grades (G1, G2) and absences were normalized to improve model convergence.
+
+## Feature Selection:
+
+Correlation analysis identified key predictors of the final grade (G3), including:
+Strong predictors: Previous grades (G1, G2).
+Moderate predictors: Parental education, study time, and failures.
+Model Performance Results
+Baseline Model:
+
+Model Used: Logistic Regression.
+
+## Performance:
+Accuracy: 72.5%.
+Key Issues: Limited ability to capture complex relationships in data.
+Optimized Model:
+
+Model Used: Random Forest Classifier.
+Hyperparameter Tuning:
+Number of trees: 100.
+Max depth: 10.
+Min samples split: 5.
+Performance:
+Accuracy: 83.1%.
+Precision: 0.85.
+Recall: 0.81.
+F1-score: 0.83.
+Alternative Models:
+
+Gradient Boosting achieved a comparable accuracy of 82.4% but required more computational resources.
+## Key Insights:
+
+Previous academic performance (G1 and G2) strongly influenced the final grade.
+Study time, absences, and family-related features had moderate predictive power.
+Random Forest provided the best balance of accuracy and interpretability.
+Visualization and Insights
+## Feature Importance:
+
+Random Forest analysis revealed that G2 and G1 accounted for over 60% of the model's predictive power.
+Other significant features: Study time and absences.
+Confusion Matrix:
+
+Demonstrated strong predictive performance in distinguishing high-performing and low-performing students, with some misclassification in mid-performing groups.
+R-squared for Regression Models:
+
+Linear regression applied as an exploratory model yielded an R-squared of 0.81, aligning with classification results.
+## Key Takeaways
+Achieved Goal:
+
+The model exceeded the benchmark of 75% accuracy, demonstrating meaningful predictive power for student performance.
+Impactful Factors:
+
+Students’ previous grades and consistent study time had the highest influence on final performance.
+Absences had a measurable, though less significant, negative impact.
 ## Future Analysis Considerations
 
 
