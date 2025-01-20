@@ -19,6 +19,7 @@ Objective:
 The project aims to analyze and predict student performance based on a dataset containing demographic, social, and academic data. The goal is to develop a machine learning model with meaningful predictive power to classify or predict student outcomes while maintaining transparency in the data preprocessing, model implementation, optimization, and evaluation processes.
 
 ## Workflow and Key Components
+
 ##### Data Preprocessing:
 
 A Jupyter notebook is used to document the data extraction, cleaning, and transformation process.
