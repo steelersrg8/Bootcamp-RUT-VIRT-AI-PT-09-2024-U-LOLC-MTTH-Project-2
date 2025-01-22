@@ -281,9 +281,9 @@ This allows for the sharing and adaptation of the datasets for any purpose, prov
 
 
 ## Team Members and Roles
+Will - 
 
-
-
+John -
 ## Contributing
 If you would like to contact us you may use the Issues tab to get in touch.
 IF there are any edits you would like to make use the issues/pull requests tab.
