@@ -91,6 +91,11 @@ Sklearn.preprocessing specifically StandardScaler and OneHotEncoder for scaling 
 Sklearn.pipeline specifically Pipeline for creating a machine learning pipeline
 <br>
 Sklearn.ensemble specifically RandomForestRegressor for building a random forest regression model
+sklearn.metrics specifically r2_score for the prediction scores
+<br>
+scipy.stats specifically randint and uniform for the for the predicition
+<br>
+sklearn.model_selection specifically RandomizedSearchCV to optomize the prediciton
 
 ## Installation and Usage
 Step-by-step instructions on how to get a development environment running.
