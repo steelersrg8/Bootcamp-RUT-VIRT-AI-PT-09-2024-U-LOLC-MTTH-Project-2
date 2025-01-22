@@ -208,7 +208,8 @@ Baseline Model:
 Model Used: Logistic Regression.
 
 ## Performance:
-Accuracy: 72.5%.
+Accuracy: 85%
+.
 Key Issues: Limited ability to capture complex relationships in data.
 Optimized Model:
 
