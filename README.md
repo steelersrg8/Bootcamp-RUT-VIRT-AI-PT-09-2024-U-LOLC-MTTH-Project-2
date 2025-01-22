@@ -121,65 +121,67 @@ jupyter notebook
 ```
 Then, open the relevant .ipynb file to view and execute the analysis.
 ## Analysis Table
-| Feature Importances: |                                                 |          |
-|----------------------|-------------------------------------------------|----------|
-| Feature              | Importance                                      | Impact   |
-| 5                    | Number of Failures                              | 20.6499% |
-| 12                   | Number of Absences                              | 6.9192%  |
-| 2                    | Father's Education                              | 4.8847%  |
-| 9                    | Workday Alcohol Consumption                     | 4.0835%  |
-| 10                   | Weekend Alcohol Consumption                     | 3.8697%  |
-| 7                    | Free Time After School                          | 3.4355%  |
-| 0                    | Age                                             | 3.3105%  |
-| 8                    | Likleyhood of Going Out With Friends            | 3.2456%  |
-| 11                   | Current Health Status                           | 3.2153%  |
-| 1                    | Mother's Education                              | 3.54%    |
-| 4                    | Weekly Study Time                               | 2.8983%  |
-| 13                   | Goes to School at Gabriel Pereira               | 2.7032%  |
-| 6                    | Quality of Family Relationships                 | 2.2793%  |
-| 14                   | Goes to School at Mousinho da Silveira          | 2.2579%  |
-| 3                    | Home to School Travel Time                      | 1.6851%  |
-| 35                   | Chsoe The School for Other Reasons              | 1.6677%  |
-| 51                   | Does Want to Take Higher Education              | 1.5948%  |
-| 50                   | Does Not Want to Take Higher Education          | 1.5499%  |
-| 40                   | Does Not Have Extra Educational Support         | 1.4307%  |
-| 41                   | Does Have Extra Educational Support             | 1.3404%  |
-| 36                   | Chose The School Bc Reputation                  | 1.1276%  |
-| 33                   | Chose The School Bc of Courses Offered          | 1.1156%  |
-| 25                   | Mother's job as Another Job                     | 1.0987%  |
-| 38                   | Guardian is Mother                              | 0.9559%  |
-| 42                   | Does Not Have Family Educational Support        | 0.9489%  |
-| 23                   | Mother's job as a Stay at Home Parent           | 0.9126%  |
-| 34                   | Chose School Bc it's Close to Home              | 0.9097%  |
-| 31                   | Father's job in the Field of Service            | 0.8809%  |
-| 15                   | Female                                          | 0.8536%  |
-| 26                   | Mother's job in the Field of Service            | 0.8427%  |
-| 27                   | Mother's job as a Teacher                       | 0.8121%  |
-| 43                   | Does Have Family Educational Support            | 0.7826%  |
-| 17                   | Rural Home Address                              | 0.7761%  |
-| 49                   | Did Attended Nursery School                     | 0.7615%  |
-| 46                   | Does Not Do Extra-curricular Activities         | 0.7217%  |
-| 32                   | Father's job as a Teacher                       | 0.7054%  |
-| 18                   | Urban Home Address                              | 0.7047%  |
-| 47                   | Does Do Extra-curricular Activities             | 0.6780%  |
-| 30                   | Father's job as Another Job                     | 0.6702%  |
-| 16                   | Male                                            | 0.6630%  |
-| 48                   | Did Not Attended Nursery School                 | 0.6625%  |
-| 55                   | Is In a Romantic Relationship                   | 0.6533%  |
-| 54                   | Is Not In a Romantic Relationship               | 0.6063%  |
-| 52                   | Does Not Have Internet Access At Home           | 0.6020%  |
-| 20                   | Family is Less Than or Equal To 3 Members       | 0.5913%  |
-| 37                   | Guardian is Father                              | 0.5859%  |
-| 19                   | Family is Greater Than or Equal To 3 Members    | 0.5687%  |
-| 39                   | Guardian is Someone Else                        | 0.5530%  |
-| 53                   | Does Have Internet Access At Home               | 0.5134%  |
-| 24                   | Mother's job in the Health Field                | 0.3849%  |
-| 28                   | Father's job as a Stay at Home Parent           | 0.3221%  |
-| 22                   | Parent's Cohabitation Status is Together        | 0.2913%  |
-| 21                   | Parent's Cohabitation Status is Apart           | 0.2909%  |
-| 44                   | Does Have Extra Paid Classes in Portuguese      | 0.1483%  |
-| 45                   | Does Not Have Extra Paid Classes in Portuguese  | 0.1436%  |
-| 29                   | Father's job in the Health Field                | 0.1344%  |
+| Feature Importances: |                   |          |
+|----------------------|-------------------|----------|
+| Feature              | Importance        |          |
+| 57                   | G2                | 0.830376 |
+| 55                   | absences          | 0.034227 |
+| 56                   | G1                | 0.017313 |
+| 43                   | age               | 0.008164 |
+| 50                   | freetime          | 0.008095 |
+| 44                   | Medu              | 0.007161 |
+| 52                   | Dalc              | 0.006517 |
+| 22                   | reason_other      | 0.005417 |
+| 49                   | famrel            | 0.005358 |
+| 54                   | health            | 0.005223 |
+| 51                   | goout             | 0.005108 |
+| 46                   | traveltime        | 0.004535 |
+| 53                   | Walc              | 0.004507 |
+| 45                   | Fedu              | 0.004117 |
+| 14                   | Mjob_teacher      | 0.003988 |
+| 48                   | failures          | 0.003456 |
+| 47                   | studytime         | 0.003340 |
+| 0                    | school_GP         | 0.002899 |
+| 1                    | school_MS         | 0.002635 |
+| 12                   | Mjob_other        | 0.002224 |
+| 24                   | guardian_father   | 0.001945 |
+| 18                   | Fjob_services     | 0.001807 |
+| 20                   | reason_course     | 0.001594 |
+| 7                    | famsize_LE3       | 0.001555 |
+| 6                    | famsize_GT3       | 0.001464 |
+| 30                   | famsup_yes        | 0.001418 |
+| 29                   | famsup_no         | 0.001371 |
+| 2                    | sex_F             | 0.001368 |
+| 41                   | romantic_no       | 0.001307 |
+| 21                   | reason_home       | 0.001250 |
+| 3                    | sex_M             | 0.001198 |
+| 13                   | Mjob_services     | 0.001176 |
+| 23                   | reason_reputation | 0.001157 |
+| 42                   | romantic_yes      | 0.001147 |
+| 35                   | nursery_no        | 0.001060 |
+| 36                   | nursery_yes       | 0.001051 |
+| 33                   | activities_no     | 0.000977 |
+| 17                   | Fjob_other        | 0.000954 |
+| 34                   | activities_yes    | 0.000920 |
+| 25                   | guardian_mother   | 0.000918 |
+| 5                    | address_U         | 0.000883 |
+| 4                    | address_R         | 0.000879 |
+| 27                   | schoolsup_no      | 0.000855 |
+| 28                   | schoolsup_yes     | 0.000840 |
+| 10                   | Mjob_at_home      | 0.000652 |
+| 32                   | paid_yes          | 0.000602 |
+| 26                   | guardian_other    | 0.000589 |
+| 39                   | internet_no       | 0.000540 |
+| 31                   | paid_no           | 0.000518 |
+| 15                   | Fjob_at_home      | 0.000518 |
+| 40                   | internet_yes      | 0.000507 |
+| 8                    | Pstatus_A         | 0.000430 |
+| 37                   | higher_no         | 0.000420 |
+| 11                   | Mjob_health       | 0.000410 |
+| 9                    | Pstatus_T         | 0.000351 |
+| 38                   | higher_yes        | 0.000347 |
+| 19                   | Fjob_teacher      | 0.000197 |
+| 16                   | Fjob_health       | 0.000163 |
 
 ## Analysis Results
 The project involved analyzing the Student Performance Dataset to build a machine learning model capable of predicting student performance. The following sections summarize the results:
