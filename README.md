@@ -190,6 +190,7 @@ Then, open the relevant .ipynb file to view and execute the analysis.
 | 16                   | Fjob_health       | 0.000163 |
 
 ## Graphs
+![Bar_Graph.png](/Images/Bar_Graph.png "Bar_Graph")
 ![Histogram_1.png](/Images/Histogram_1.png "Histogram_1")
 ![Histogram_2.png](/Images/Histogram_2.png "Histogram_2")
 ![Histogram_3.png](/Images/Histogram_3.png "Histogram_3")
@@ -208,7 +209,6 @@ Then, open the relevant .ipynb file to view and execute the analysis.
 ![Histogram_16.png](/Images/Histogram_16.png "Histogram_16")
 ![Histogram_17.png](/Images/Histogram_17.png "Histogram_17")
 ![Histogram_18.png](/Images/Histogram_18.png "Histogram_18")
-![Bar_Graph.png](/Images/Bar_Graph.png "Bar_Graph")
 ![Box_Graph_1.png](/Images/Box_Graph_1.png "Box_Graph_1")
 ![Box_Graph_2.png](/Images/Box_Graph_2.png "Box_Graph_2")
 ![Box_Graph_3.png](/Images/Box_Graph_3.png "Box_Graph_3")
