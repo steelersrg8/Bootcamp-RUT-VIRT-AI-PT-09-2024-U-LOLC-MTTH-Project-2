@@ -6,17 +6,18 @@
 4. [Technologies Used](#Technologies-Used)  
 5. [Installation and Usage](#Installation-and-Usage)  
 6. [Analysis Table](#Analysis-Table)
-7. [Analysis Results](#Analysis-Results)
-8. [Data Preprocessing Results](#Data-Preprocessing-Results)
-9. [Feature Selection](#Feature-Selection)
-10. [Performance](#Performance)
-11. [Feature Importance](#Feature-Importance)
-12. [Key Takeaways](#Key-Takeaways)
-13. [Future Analysis Considerations](#Future-Analysis-Considerations)
-14. [Dataset License](#Dataset-License)
-15. [Team Members and Roles](#Team-Members-and-Roles)
-16. [Contributing](#Contributing)
-17. [Acknowledgments](#acknowledgments)  
+7. [Graphs](#Graphs)
+8. [Analysis Results](#Analysis-Results)
+9. [Data Preprocessing Results](#Data-Preprocessing-Results)
+10. [Feature Selection](#Feature-Selection)
+11. [Performance](#Performance)
+12. [Feature Importance](#Feature-Importance)
+13. [Key Takeaways](#Key-Takeaways)
+14. [Future Analysis Considerations](#Future-Analysis-Considerations)
+15. [Dataset License](#Dataset-License)
+16. [Team Members and Roles](#Team-Members-and-Roles)
+17. [Contributing](#Contributing)
+18. [Acknowledgments](#acknowledgments)  
 
 
 ## Project Overview
@@ -187,6 +188,8 @@ Then, open the relevant .ipynb file to view and execute the analysis.
 | 38                   | higher_yes        | 0.000347 |
 | 19                   | Fjob_teacher      | 0.000197 |
 | 16                   | Fjob_health       | 0.000163 |
+
+## Graphs
 
 ## Analysis Results
 The project involved analyzing the Student Performance Dataset to build a machine learning model capable of predicting student performance. The following sections summarize the results:
