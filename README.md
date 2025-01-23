@@ -190,6 +190,29 @@ Then, open the relevant .ipynb file to view and execute the analysis.
 | 16                   | Fjob_health       | 0.000163 |
 
 ## Graphs
+![Histogram_1.png](/Images/Histogram_1.png "Histogram_1")
+![Histogram_2.png](/Images/Histogram_2.png "Histogram_2")
+![Histogram_3.png](/Images/Histogram_3.png "Histogram_3")
+![Histogram_4.png](/Images/Histogram_4.png "Histogram_4")
+![Histogram_5.png](/Images/Histogram_5.png "Histogram_5")
+![Histogram_6.png](/Images/Histogram_6.png "Histogram_6")
+![Histogram_7.png](/Images/Histogram_7.png "Histogram_7")
+![Histogram_8.png](/Images/Histogram_8.png "Histogram_8")
+![Histogram_9.png](/Images/Histogram_9.png "Histogram_9")
+![Histogram_10.png](/Images/Histogram_10.png "Histogram_10")
+![Histogram_11.png](/Images/Histogram_11.png "Histogram_11")
+![Histogram_12.png](/Images/Histogram_12.png "Histogram_12")
+![Histogram_13.png](/Images/Histogram_13.png "Histogram_13")
+![Histogram_14.png](/Images/Histogram_14.png "Histogram_14")
+![Histogram_15.png](/Images/Histogram_15.png "Histogram_15")
+![Histogram_16.png](/Images/Histogram_16.png "Histogram_16")
+![Histogram_17.png](/Images/Histogram_17.png "Histogram_17")
+![Histogram_18.png](/Images/Histogram_18.png "Histogram_18")
+![Bar_Graph.png](/Images/Bar_Graph.png "Bar_Graph")
+![Box_Graph_1.png](/Images/Box_Graph_1.png "Box_Graph_1")
+![Box_Graph_2.png](/Images/Box_Graph_2.png "Box_Graph_2")
+![Box_Graph_3.png](/Images/Box_Graph_3.png "Box_Graph_3")
+![Box_Graph_4.png](/Images/Box_Graph_4.png "Box_Graph_4")
 
 ## Analysis Results
 The project involved analyzing the Student Performance Dataset to build a machine learning model capable of predicting student performance. The following sections summarize the results:
