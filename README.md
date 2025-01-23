@@ -293,9 +293,6 @@ IF there are any edits you would like to make use the issues/pull requests tab.
 
 ## Acknowledgments
 
-Mention any resources, tutorials, or contributors that helped you build this project.
-Provide links to relevant documentation or tools.
-
 Dataset: https://archive.ics.uci.edu/dataset/320/student+performance
 
                            
