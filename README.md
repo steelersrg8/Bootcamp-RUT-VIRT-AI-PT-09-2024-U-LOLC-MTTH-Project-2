@@ -282,7 +282,9 @@ This allows for the sharing and adaptation of the datasets for any purpose, prov
 
 ## Team Members and Roles
 William: Coding of the base code, GitHub setup, analysis
+<br>
 John: Corrections/Doccumentation Corrections, presentation preparation, analysis
+<br>
 Shared: Data visualization and presentation delivery
 
 ## Contributing
